@@ -15,4 +15,4 @@ Le langage de balisage léger Markdown est utilisé dans de nombreuses applicati
 
 C’est aussi le langage de balisage choisi par de nombreuses plateformes d’écriture collaborative, comme Authorea ou Manubot. Il existe plusieurs logiciels permettant de rédiger le Markdown en temps réel sur le web, comme CodiMD, Etherpad ou Firepad. 
 
-! [Markdown] (https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+! [Markdown] (https://i.ibb.co/Jk22rTZ/1200px-Markdown-mark-svg.png)
